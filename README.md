@@ -6,9 +6,9 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=vivek955514" alt="vivek955514" /></a> </p>
 
-- 🔭 I’m currently working on **Car Rantel Website**
+- 🔭 I’m currently working on **java based Project**
 
-- 🌱 I’m currently learning **React js,DSA**
+- 🌱 I’m currently learning **java full stack **
 
 - 📫 How to reach me **raic77255@gmail.com**
 
